@@ -1,4 +1,5 @@
 **AI Trading Agent with LLM-Based Decision System**
+
 Overview 
 This project implements an end-to-end AI trading agent that leverages Large Language Models (LLMs) to make data-driven investment decisions in a simulated real-time environment.
 
